@@ -1,0 +1,158 @@
+.form-2fGMdU {
+    background: black;
+}
+
+.autocompleteInner-zh20B_ {
+    background: black;
+}
+
+.scrollableContainer-2NUZem, .webkit-HjD9Er {
+    border: 1px solid #7a99ad;
+}
+
+.scroller-1Bvpku, .none-2Eo-qx {
+    background: black;
+}
+
+.wrapper-3NnKdC, .guilds-1SWlCJ{
+    background: black;
+}
+
+ul {
+    background: black;
+}
+
+.membersWrap-2h-GB4, .hiddenMembers-2dcs_q {
+    background: rgb(39, 35, 35);
+}
+
+.headerTop-2y3V6H {
+    background: black;
+}
+
+.userPopout-3XzG_A {
+    background: black;
+}
+
+.panels-j1Uci_, .sidebar-2K8pFh, .container-3baos1 {
+    background: black;
+}
+
+.header-2V-4Sw {
+    background-color: black;
+}
+
+.title-3qD0b-{
+    background: black;
+    opacity: 1.0;
+}
+
+.icon-1DeIlz{
+  color: white !important;
+}
+
+.body-3iLsc4  {
+    background: black;
+}
+
+.userPopout-3XzG_A[style*="https"] .profileBanner-33-uE1 {
+  opacity: 0;
+}
+
+
+.body-3iLsc4, .headerTop-2y3V6H, .headerNormal-1l1Znk, .footer-1fjuF6, .layer-v9HyYc, .avatar-22FtUu {
+    background: none !important;
+    background-image: none !important;
+}
+
+.userPopout-3XzG_A, .headerTop-2y3V6H, .headerNormal-1l1Znk, .animatorRight-3i_YPs{
+    border-radius: 5px;
+}
+
+.animatorRight-3i_YPs, .animatorLeft-1EQxU0, .noArrow-2foL9g {
+    background: #000 !important;
+}
+
+.userPopout-3XzG_A .wrapper-3t9DeA::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0.5;
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: var(--user-popout-position) center;
+    background-image: var(--user-background);
+    /* -webkit-mask-image: linear-gradient(#000, transparent) !important; */
+}
+
+.userPopout-3XzG_A  .header-2BwW8b,
+.userPopout-3XzG_A  .scroller-2FKFPG,
+.userPopout-3XzG_A  .footer-1fjuF6 {
+    z-index: 1;
+} 
+
+section.title-3qD0b-,.container-1r6BKw,.themed-ANHk51 {
+    background: black;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: black;
+}
+
+.children-19S4PO,.toolbar-1t6TWx {
+    background: black;
+}
+
+.scroller-2LSbBU, .auto-Ge5KZx, .scrollerBase-289Jih {
+    scrollbar-color: white;
+}
+
+.scrollableContainer-2NUZem .channelTextArea-rNsIhG {    
+    background-color: rgb(255, 255, 255);
+    max-height: 50vh;
+    border-radius: 8px;
+    scrollbar-width: 1px;
+}
+
+.messagesWrapper-1sRNjr {
+    background: rgba(122, 99, 99, 0.1);
+}
+
+.chatContent-a9vAAp {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+#app-mount .menu-3sdvDG,#guild-header-popout {
+    background-color: black;
+}
+ 
+#search-results {
+    background: black;
+}
+
+.resultsGroup-r_nuzN {
+    background: black;
+}
+
+h1,h2,h3,h4,h5,h6,h7 {
+    color: #ffcc00;
+}
+
+.content-1LAB8Z, .content-mK72R6 {
+    background: black;
+}
+
+h2 > .overflow-WK9Ogt {
+    color: orange;
+}
